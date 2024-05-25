@@ -1,0 +1,53 @@
+.my_img{
+     display: block; 
+     justify-content: center;
+     align-items: center;
+     margin: auto;
+     border-radius: 50%;
+
+}
+
+.skill_btn_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.skill_btn{
+        padding: 6px 14px;
+        margin-right: 10px;
+        border-radius: 5px;
+        border: none;
+
+}
+.skill_icon{
+   
+       width: 15px;
+       height: auto;
+
+}
+
+.project_card{
+    background-color: rgb(67, 56, 202);
+    width: 80%;
+    justify-content: center;
+     align-items: center;
+     margin: auto;
+     border-radius: 10px;
+     display: flex;
+
+}
+.project_btn{
+    background-color: white;
+    color: rgb(67, 56, 202);
+    padding: 10px 18px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+
+
